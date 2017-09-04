@@ -8,4 +8,6 @@ echo $i++;
 
 
 $programadores=$persona+$logica+$tipe;
+
+echo "version 2 de github";
 ?>
